@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN, Next JS, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://endearing-mooncake-dc2621.netlify.app/](https://endearing-mooncake-dc2621.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://siddhartha-bharali.netlify.app/)
 
 - 💬 Ask me about **Java, SpringBoot, DSA**
 
